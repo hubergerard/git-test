@@ -1,2 +1,2 @@
 ### Stephane Lachartre
-*** A wise among the wise  ***
+** A wise among the wise  **
